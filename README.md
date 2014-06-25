@@ -2,8 +2,11 @@ TOC_HW4
 =======
 
 Parse data from website
+
 1. use json to cut the data we want  
+
 2. count the most frequence occured data (depends on year and month)
+
 3. find the highest and lowest price of the selected data and print out
 
 Running Examples:
