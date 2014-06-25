@@ -12,4 +12,5 @@ Parse data from website
 Running Examples:
 
 Input: “java –jar TocHW4.jar http://www.datagarage.io/api/538447a07122e8a77dfe2d86
+
 Output: 臺北市中正區汀州路, 最高成交價: 65380000, 最低成交價: 2000000
